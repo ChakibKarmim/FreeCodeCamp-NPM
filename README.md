@@ -12,4 +12,4 @@ The major steps were :
   * Use the Caret-Character to Use the Latest Minor Version of a Dependency
   * Remove a Package from Your Dependencies
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
+[![Run on Repl.it](https://replit.com/@ChakibKarmim/boilerplate-npm)](https://replit.com/@ChakibKarmim/boilerplate-npm)
