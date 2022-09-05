@@ -1,0 +1,19 @@
+{
+	"name": "fcc-learn-npm-package-json",
+  "author": "Chakou",
+  "description": "This is my first project with node js",
+  "keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
+  "license" : "Chakou's license",
+  "version": "1.0.0",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
